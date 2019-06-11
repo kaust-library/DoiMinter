@@ -9,4 +9,4 @@ To run the code there are three tasks located in the tasks folder:
   2. registerDOIs.php
   3. updateMetadata.php
   
-A poster describing this work was presented at OR2019 and is available at: https://repository.kaust.edu.sa/handle/10754/653099
+A poster describing this work was presented at OR2019 and is available at: http://hdl.handle.net/10754/653099
