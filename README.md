@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/188664819.svg)](https://zenodo.org/badge/latestdoi/188664819)
+
 This code tracks a DSpace repository via OAI-PMH and mints DOIs for items if requested.
 
 It currently works with the DSpace 5 REST API and the DataCite MDS API. The generated DataCite XML is compliant with DataCite Schema version 4.1.
