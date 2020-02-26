@@ -1,0 +1,15 @@
+{
+  "creators": [{
+      "name": "Habbal, Mohyden",
+      "affiliation": "University Library, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+      "orcid": "0000-0001-9253-1893"
+  }, {
+      "name": "Grenz, Daryl",
+      "affiliation": "University Library, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+      "orcid": "0000-0002-2373-2007"
+  }],
+  "related_identifiers": [{
+    "identifier": "10.5281/zenodo.3554354",
+    "relation": "isCitedBy"
+  }]
+}
